@@ -9,4 +9,4 @@ The game is simple.
 https://jjaydenlee770.itch.io/plinko 
 
 
-AI was used to suggest ways to fix problems with the code. The project was not made entirely with AI. 
+AI was used to suggest ways to fix problems with the code. The project was not made entirely with AI. thats why the game kinda sucks
