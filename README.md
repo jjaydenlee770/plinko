@@ -7,3 +7,6 @@ The game is simple.
 2.Press the Button
 3.And watch wether your investment was worth it or not
 https://jjaydenlee770.itch.io/plinko 
+
+
+AI was used to suggest ways to fix problems with the code. The project was not made entirely with AI. 
